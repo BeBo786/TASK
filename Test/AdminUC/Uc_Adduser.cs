@@ -24,7 +24,7 @@ namespace Test.AdminUC
             txtPass.Clear();
             txtPhoneNo.Clear();
             txtusername.Clear();
-            
+            comUserRole.Items.Clear();
 
         }
 
