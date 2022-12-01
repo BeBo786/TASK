@@ -5,3 +5,8 @@
 .vs/Test/v17/.suo
 .vs/slnx.sqlite
 .vs/slnx.sqlite
+*.sqlite-journal
+*.sqlite
+*.vsidx
+*.vsidx
+*.vsidx
