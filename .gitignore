@@ -11,3 +11,9 @@
 *.vsidx
 *.vsidx
 *.lock
+Test/obj/Debug/Test.pdb
+Test/obj/Debug/Test.exe
+Test/obj/Debug/DesignTimeResolveAssemblyReferences.cache
+*.pdb
+*.exe
+.vs/TASK/v17/.wsuo
