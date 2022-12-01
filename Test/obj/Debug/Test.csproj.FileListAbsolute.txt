@@ -1,0 +1,17 @@
+C:\Users\lenovo\Desktop\c#\Test\Test\bin\Debug\Test.exe.config
+C:\Users\lenovo\Desktop\c#\Test\Test\bin\Debug\Test.exe
+C:\Users\lenovo\Desktop\c#\Test\Test\bin\Debug\Test.pdb
+C:\Users\lenovo\Desktop\c#\Test\Test\obj\Debug\Test.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\c#\Test\Test\obj\Debug\Test.csproj.SuggestedBindingRedirects.cache
+C:\Users\lenovo\Desktop\c#\Test\Test\obj\Debug\Test.Form1.resources
+C:\Users\lenovo\Desktop\c#\Test\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\lenovo\Desktop\c#\Test\Test\obj\Debug\Test.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\c#\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\c#\Test\Test\obj\Debug\Test.exe
+C:\Users\lenovo\Desktop\c#\Test\Test\obj\Debug\Test.pdb
+C:\Users\lenovo\Desktop\c#\Test\Test\bin\Debug\Guna.UI2.dll
+C:\Users\lenovo\Desktop\c#\Test\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\lenovo\Desktop\c#\Test\Test\obj\Debug\Test.Admin.resources
+C:\Users\lenovo\Desktop\c#\Test\Test\obj\Debug\Test.AdminUC.UC_Dashbord.resources
+C:\Users\lenovo\Desktop\c#\Test\Test\bin\Debug\Guna.UI.dll
+C:\Users\lenovo\Desktop\c#\Test\Test\obj\Debug\Test.AdminUC.Uc_Adduser.resources
