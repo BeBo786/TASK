@@ -20,7 +20,7 @@ namespace Test.AdminUC
         private void btnReset_Click(object sender, EventArgs e)
         {
             txtEmail.Clear();
-            
+            txtName.Clear();
             txtPass.Clear();
             txtPhoneNo.Clear();
             txtusername.Clear();
